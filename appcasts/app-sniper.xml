@@ -3,6 +3,14 @@
     <channel>
         <title>App Sniper</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Sun, 27 Sep 2026 20:22:37 -0300</pubDate>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ScarparoX/Yvori-Releases/releases/download/app-sniper-v1.2.0/App-Sniper-1.2.0.dmg" length="3428359" type="application/octet-stream" sparkle:edSignature="RuTraLkCcK5j/uOTaWM01Z70X/+8LJW2pcB7UmA1Rm4ljVyhNv05Qrg4L1oG5JHUwb6ydq4lRP3ujVkizWx7Aw=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sun, 27 Sep 2026 19:56:34 -0300</pubDate>
             <sparkle:version>33</sparkle:version>
