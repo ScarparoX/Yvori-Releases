@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>App Sniper Updates</title>
-    <link>https://github.com/ScarparoX/Yvori-Releases</link>
-    <description>Updates for App Sniper for macOS.</description>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>App Sniper</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sun, 27 Sep 2026 19:56:34 -0300</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/ScarparoX/Yvori-Releases/releases/download/app-sniper-v1.1.0/App-Sniper-1.1.0.dmg" length="3506390" type="application/octet-stream" sparkle:edSignature="Xko2hWKGidz9NUsIaREVq8jA7WK+rXURQK+E1HCHh5bGvPt9ou+/jcuj/sPKKcEI5vjMOhA4ksrCHKeYoqitBA=="/>
+        </item>
+    </channel>
 </rss>
