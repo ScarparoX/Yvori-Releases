@@ -8,6 +8,55 @@
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description xml:lang="en" sparkle:format="markdown"><![CDATA[
+- In Settings > General, **Application** now groups the global shortcut and automatic update checks.
+- We removed helper text and shortened the Safe Mode description in Termination.
+]]></description>
+            <description xml:lang="pt-BR" sparkle:format="markdown"><![CDATA[
+- Em Ajustes > Geral, o bloco **Aplicativo** reúne o atalho global e a busca automática de atualizações.
+- Removemos textos auxiliares e encurtamos a descrição do modo seguro em Encerramento.
+]]></description>
+            <description xml:lang="de" sparkle:format="markdown"><![CDATA[
+- Unter Einstellungen > Allgemein fasst **Anwendung** das globale Tastenkürzel und die automatische Updateprüfung zusammen.
+- Hilfetexte wurden entfernt und die Beschreibung des sicheren Modus unter Beendigung gekürzt.
+]]></description>
+            <description xml:lang="es" sparkle:format="markdown"><![CDATA[
+- En Ajustes > General, **Aplicación** reúne el atajo global y la búsqueda automática de actualizaciones.
+- Eliminamos textos de ayuda y acortamos la descripción del modo seguro en Terminación.
+]]></description>
+            <description xml:lang="fr" sparkle:format="markdown"><![CDATA[
+- Dans Réglages > Général, **Application** regroupe le raccourci global et la recherche automatique de mises à jour.
+- Nous avons supprimé les textes d’aide et raccourci la description du mode sûr dans Fermeture.
+]]></description>
+            <description xml:lang="hi" sparkle:format="markdown"><![CDATA[
+- सेटिंग्स > सामान्य में **ऐप्लिकेशन** अब वैश्विक शॉर्टकट और स्वचालित अपडेट जाँच को एक साथ दिखाता है।
+- सहायता पाठ हटाया गया है और समाप्ति में सुरक्षित मोड का विवरण छोटा किया गया है।
+]]></description>
+            <description xml:lang="ia" sparkle:format="markdown"><![CDATA[
+- In Parametros > General, **Application** reuni le clave global e le cerca automatic de actualisationes.
+- Nos removeva textos de adjuta e abbreviava le description del modo secur in Termination.
+]]></description>
+            <description xml:lang="it" sparkle:format="markdown"><![CDATA[
+- In Impostazioni > Generali, **Applicazione** riunisce la scorciatoia globale e la verifica automatica degli aggiornamenti.
+- Abbiamo rimosso i testi di aiuto e abbreviato la descrizione della modalità sicura in Terminazione.
+]]></description>
+            <description xml:lang="ja" sparkle:format="markdown"><![CDATA[
+- 設定 > 一般の **アプリケーション** に、グローバルショートカットとアップデートの自動確認をまとめました。
+- 補足テキストを削除し、終了設定のセーフモードの説明を短くしました。
+]]></description>
+            <description xml:lang="ko" sparkle:format="markdown"><![CDATA[
+- 설정 > 일반의 **애플리케이션**에 전역 단축키와 자동 업데이트 확인을 함께 배치했습니다.
+- 도움말 문구를 제거하고 종료 설정의 안전 모드 설명을 줄였습니다.
+]]></description>
+            <description xml:lang="ru" sparkle:format="markdown"><![CDATA[
+- В разделе «Настройки > Основные» блок **Приложение** теперь объединяет глобальное сочетание клавиш и автоматическую проверку обновлений.
+- Удалены вспомогательные подписи и сокращено описание безопасного режима в разделе «Завершение».
+]]></description>
+            <description xml:lang="zh-Hans" sparkle:format="markdown"><![CDATA[
+- 在“设置 > 通用”的 **应用程序** 分组中，现已集中显示全局快捷键和自动检查更新选项。
+- 移除了辅助说明，并缩短了“终止”设置中安全模式的描述。
+]]></description>
+            <sparkle:fullReleaseNotesLink>https://github.com/ScarparoX/Yvori-Releases/releases/tag/app-sniper-v1.2.0</sparkle:fullReleaseNotesLink>
             <enclosure url="https://github.com/ScarparoX/Yvori-Releases/releases/download/app-sniper-v1.2.0/App-Sniper-1.2.0.dmg" length="3428359" type="application/octet-stream" sparkle:edSignature="RuTraLkCcK5j/uOTaWM01Z70X/+8LJW2pcB7UmA1Rm4ljVyhNv05Qrg4L1oG5JHUwb6ydq4lRP3ujVkizWx7Aw=="/>
         </item>
         <item>
