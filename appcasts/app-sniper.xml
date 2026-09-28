@@ -3,69 +3,109 @@
     <channel>
         <title>App Sniper</title>
         <item>
-            <title>1.2</title>
-            <pubDate>Sun, 27 Sep 2026 20:22:37 -0300</pubDate>
-            <sparkle:version>37</sparkle:version>
-            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Sun, 27 Sep 2026 22:50:18 -0300</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/ScarparoX/Yvori-Releases/releases/tag/app-sniper-v1.0.0</sparkle:fullReleaseNotesLink>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description xml:lang="en" sparkle:format="markdown"><![CDATA[
-- In Settings > General, **Application** now groups the global shortcut and automatic update checks.
-- We removed helper text and shortened the Safe Mode description in Termination.
+- Identify windows visually: the highlight shows the app, PID, window title when available, CPU and memory usage, and the proposed action.
+- Quit regular apps and restart supported macOS processes, such as Finder and Dock, with confirmations.
+- Choose Safe or Advanced mode. Critical actions require two confirmations; unknown processes remain blocked.
+- Activate aiming with the button or ⌘⌥K shortcut, and cancel with Esc.
+- Configure quitting behavior, review permissions and local logs, and choose from 12 languages.
+- Check for updates manually or enable automatic checks when the app opens.
 ]]></description>
             <description xml:lang="pt-BR" sparkle:format="markdown"><![CDATA[
-- Em Ajustes > Geral, o bloco **Aplicativo** reúne o atalho global e a busca automática de atualizações.
-- Removemos textos auxiliares e encurtamos a descrição do modo seguro em Encerramento.
+- Identifique janelas visualmente: o destaque mostra aplicativo, PID, título quando disponível, uso de CPU e memória e a ação proposta.
+- Encerre apps comuns e reinicie processos compatíveis do macOS, como Finder e Dock, com confirmações.
+- Escolha entre modo seguro e avançado. Ações críticas exigem confirmação dupla; processos desconhecidos permanecem bloqueados.
+- Ative a mira pelo botão ou atalho ⌘⌥K e cancele com Esc.
+- Ajuste o encerramento, consulte permissões e registros locais e escolha entre 12 idiomas.
+- Busque atualizações manualmente ou habilite a verificação automática ao abrir o aplicativo.
 ]]></description>
             <description xml:lang="de" sparkle:format="markdown"><![CDATA[
-- Unter Einstellungen > Allgemein fasst **Anwendung** das globale Tastenkürzel und die automatische Updateprüfung zusammen.
-- Hilfetexte wurden entfernt und die Beschreibung des sicheren Modus unter Beendigung gekürzt.
+- Fenster visuell erkennen: Die Hervorhebung zeigt App, PID, Fenstertitel (falls verfügbar), CPU- und Speicherauslastung sowie die vorgeschlagene Aktion.
+- Gewöhnliche Apps beenden und unterstützte macOS-Prozesse wie Finder und Dock nach Bestätigung neu starten.
+- Zwischen sicherem und erweitertem Modus wählen. Kritische Aktionen erfordern zwei Bestätigungen; unbekannte Prozesse bleiben gesperrt.
+- Den Zielmodus per Schaltfläche oder mit ⌘⌥K aktivieren und mit Esc abbrechen.
+- Beendigungseinstellungen anpassen, Berechtigungen und lokale Protokolle einsehen und aus 12 Sprachen wählen.
+- Manuell nach Updates suchen oder die automatische Prüfung beim App-Start aktivieren.
 ]]></description>
             <description xml:lang="es" sparkle:format="markdown"><![CDATA[
-- En Ajustes > General, **Aplicación** reúne el atajo global y la búsqueda automática de actualizaciones.
-- Eliminamos textos de ayuda y acortamos la descripción del modo seguro en Terminación.
+- Identifica ventanas visualmente: el resaltado muestra la app, el PID, el título cuando esté disponible, el uso de CPU y memoria y la acción propuesta.
+- Cierra apps comunes y reinicia procesos compatibles de macOS, como Finder y Dock, con confirmaciones.
+- Elige el modo seguro o avanzado. Las acciones críticas requieren doble confirmación; los procesos desconocidos permanecen bloqueados.
+- Activa la mira con el botón o el atajo ⌘⌥K y cancela con Esc.
+- Configura el cierre, consulta los permisos y registros locales y elige entre 12 idiomas.
+- Busca actualizaciones manualmente o activa la comprobación automática al abrir la app.
 ]]></description>
             <description xml:lang="fr" sparkle:format="markdown"><![CDATA[
-- Dans Réglages > Général, **Application** regroupe le raccourci global et la recherche automatique de mises à jour.
-- Nous avons supprimé les textes d’aide et raccourci la description du mode sûr dans Fermeture.
+- Identifiez visuellement les fenêtres : la surbrillance indique l’app, le PID, le titre si disponible, l’utilisation du processeur et de la mémoire, ainsi que l’action proposée.
+- Quittez les apps courantes et redémarrez les processus macOS compatibles, comme Finder et Dock, après confirmation.
+- Choisissez le mode sûr ou avancé. Les actions critiques exigent une double confirmation ; les processus inconnus restent bloqués.
+- Activez la visée avec le bouton ou le raccourci ⌘⌥K, puis annulez avec Échap.
+- Réglez la fermeture, consultez les autorisations et les journaux locaux, et choisissez parmi 12 langues.
+- Recherchez les mises à jour manuellement ou activez la vérification automatique à l’ouverture de l’app.
 ]]></description>
             <description xml:lang="hi" sparkle:format="markdown"><![CDATA[
-- सेटिंग्स > सामान्य में **ऐप्लिकेशन** अब वैश्विक शॉर्टकट और स्वचालित अपडेट जाँच को एक साथ दिखाता है।
-- सहायता पाठ हटाया गया है और समाप्ति में सुरक्षित मोड का विवरण छोटा किया गया है।
+- विंडो को दृश्य रूप से पहचानें: हाइलाइट में ऐप, PID, उपलब्ध होने पर शीर्षक, CPU और मेमोरी उपयोग तथा प्रस्तावित कार्रवाई दिखती है।
+- सामान्य ऐप बंद करें और पुष्टि के बाद Finder तथा Dock जैसी समर्थित macOS प्रक्रियाएँ फिर शुरू करें।
+- सुरक्षित या उन्नत मोड चुनें। महत्वपूर्ण कार्रवाइयों के लिए दो पुष्टियाँ ज़रूरी हैं; अज्ञात प्रक्रियाएँ अवरुद्ध रहती हैं।
+- बटन या ⌘⌥K शॉर्टकट से लक्ष्य मोड चालू करें और Esc से रद्द करें।
+- ऐप बंद करने का व्यवहार बदलें, अनुमतियाँ और स्थानीय लॉग देखें तथा 12 भाषाओं में से चुनें।
+- अपडेट मैन्युअल रूप से जाँचें या ऐप खुलने पर स्वचालित जाँच चालू करें।
 ]]></description>
             <description xml:lang="ia" sparkle:format="markdown"><![CDATA[
-- In Parametros > General, **Application** reuni le clave global e le cerca automatic de actualisationes.
-- Nos removeva textos de adjuta e abbreviava le description del modo secur in Termination.
+- Identifica visualmente le fenestras: le marcation monstra le application, PID, titulo si disponibile, uso de CPU e memoria, e le action proponite.
+- Termina applicationes commun e reinitia processos macOS supportate, como Finder e Dock, con confirmationes.
+- Selige le modo secur o avantiate. Actiones critic require duo confirmationes; processos incognite remane blocate.
+- Activa le mira per le button o le clave rapide ⌘⌥K e cancella con Esc.
+- Configura le termination, consulta permissiones e registros local, e selige inter 12 linguas.
+- Cerca actualisationes manualmente o activa le verification automatic al aperir le application.
 ]]></description>
             <description xml:lang="it" sparkle:format="markdown"><![CDATA[
-- In Impostazioni > Generali, **Applicazione** riunisce la scorciatoia globale e la verifica automatica degli aggiornamenti.
-- Abbiamo rimosso i testi di aiuto e abbreviato la descrizione della modalità sicura in Terminazione.
+- Identifica visivamente le finestre: l’evidenziazione mostra app, PID, titolo quando disponibile, uso di CPU e memoria e azione proposta.
+- Chiudi le app comuni e riavvia i processi macOS supportati, come Finder e Dock, con conferma.
+- Scegli la modalità sicura o avanzata. Le azioni critiche richiedono una doppia conferma; i processi sconosciuti restano bloccati.
+- Attiva la mira con il pulsante o la scorciatoia ⌘⌥K e annulla con Esc.
+- Configura la chiusura, consulta permessi e registri locali e scegli tra 12 lingue.
+- Cerca gli aggiornamenti manualmente o attiva il controllo automatico all’avvio dell’app.
 ]]></description>
             <description xml:lang="ja" sparkle:format="markdown"><![CDATA[
-- 設定 > 一般の **アプリケーション** に、グローバルショートカットとアップデートの自動確認をまとめました。
-- 補足テキストを削除し、終了設定のセーフモードの説明を短くしました。
+- ウインドウを視覚的に識別。ハイライトにはアプリ名、PID、取得可能な場合はタイトル、CPUとメモリの使用量、実行予定の操作が表示されます。
+- 確認のうえ、一般的なアプリを終了し、FinderやDockなど対応するmacOSプロセスを再起動できます。
+- 安全モードと詳細モードを選択。重大な操作には二重の確認が必要で、不明なプロセスはブロックされます。
+- ボタンまたは⌘⌥Kで照準モードを開始し、Escでキャンセルできます。
+- 終了動作を設定し、権限とローカルログを確認。12言語から選べます。
+- 手動でアップデートを確認するか、起動時の自動確認を有効にできます。
 ]]></description>
             <description xml:lang="ko" sparkle:format="markdown"><![CDATA[
-- 설정 > 일반의 **애플리케이션**에 전역 단축키와 자동 업데이트 확인을 함께 배치했습니다.
-- 도움말 문구를 제거하고 종료 설정의 안전 모드 설명을 줄였습니다.
+- 창을 시각적으로 식별합니다. 강조 표시에서 앱, PID, 사용 가능한 창 제목, CPU 및 메모리 사용량, 제안된 동작을 확인할 수 있습니다.
+- 확인을 거쳐 일반 앱을 종료하고 Finder와 Dock 등 지원되는 macOS 프로세스를 재시작합니다.
+- 안전 모드 또는 고급 모드를 선택합니다. 중요한 동작은 두 번의 확인이 필요하며, 알 수 없는 프로세스는 차단됩니다.
+- 버튼이나 ⌘⌥K 단축키로 조준을 시작하고 Esc로 취소합니다.
+- 종료 동작을 설정하고 권한과 로컬 로그를 확인하며 12개 언어 중에서 선택합니다.
+- 업데이트를 수동으로 확인하거나 앱 실행 시 자동 확인을 활성화합니다.
 ]]></description>
             <description xml:lang="ru" sparkle:format="markdown"><![CDATA[
-- В разделе «Настройки > Основные» блок **Приложение** теперь объединяет глобальное сочетание клавиш и автоматическую проверку обновлений.
-- Удалены вспомогательные подписи и сокращено описание безопасного режима в разделе «Завершение».
+- Определяйте окна визуально: подсветка показывает приложение, PID, заголовок при наличии, загрузку процессора и памяти, а также предлагаемое действие.
+- Завершайте обычные приложения и перезапускайте поддерживаемые процессы macOS, например Finder и Dock, после подтверждения.
+- Выбирайте безопасный или расширенный режим. Для критических действий требуется двойное подтверждение; неизвестные процессы остаются заблокированными.
+- Включайте прицел кнопкой или сочетанием ⌘⌥K и отменяйте действие клавишей Esc.
+- Настраивайте завершение, просматривайте разрешения и локальные журналы и выбирайте один из 12 языков.
+- Проверяйте обновления вручную или включайте автоматическую проверку при запуске приложения.
 ]]></description>
             <description xml:lang="zh-Hans" sparkle:format="markdown"><![CDATA[
-- 在“设置 > 通用”的 **应用程序** 分组中，现已集中显示全局快捷键和自动检查更新选项。
-- 移除了辅助说明，并缩短了“终止”设置中安全模式的描述。
+- 直观识别窗口：高亮显示应用、PID、可用时的窗口标题、CPU 和内存使用情况，以及建议执行的操作。
+- 经确认后退出普通应用，并重新启动 Finder 和 Dock 等受支持的 macOS 进程。
+- 可选择安全模式或高级模式。关键操作需要两次确认；未知进程始终被阻止。
+- 使用按钮或 ⌘⌥K 快捷键启动瞄准模式，按 Esc 取消。
+- 调整退出行为，查看权限和本地日志，并从 12 种语言中选择。
+- 手动检查更新，或启用应用启动时自动检查。
 ]]></description>
-            <sparkle:fullReleaseNotesLink>https://github.com/ScarparoX/Yvori-Releases/releases/tag/app-sniper-v1.2.0</sparkle:fullReleaseNotesLink>
-            <enclosure url="https://github.com/ScarparoX/Yvori-Releases/releases/download/app-sniper-v1.2.0/App-Sniper-1.2.0.dmg" length="3428359" type="application/octet-stream" sparkle:edSignature="RuTraLkCcK5j/uOTaWM01Z70X/+8LJW2pcB7UmA1Rm4ljVyhNv05Qrg4L1oG5JHUwb6ydq4lRP3ujVkizWx7Aw=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Sun, 27 Sep 2026 19:56:34 -0300</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ScarparoX/Yvori-Releases/releases/download/app-sniper-v1.1.0/App-Sniper-1.1.0.dmg" length="3506390" type="application/octet-stream" sparkle:edSignature="Xko2hWKGidz9NUsIaREVq8jA7WK+rXURQK+E1HCHh5bGvPt9ou+/jcuj/sPKKcEI5vjMOhA4ksrCHKeYoqitBA=="/>
+            <enclosure url="https://github.com/ScarparoX/Yvori-Releases/releases/download/app-sniper-v1.0.0/App-Sniper-1.0.0.dmg" length="3444105" type="application/octet-stream" sparkle:edSignature="Hw26gblSpl3JwLEaA4bfniUZB1puJJMGgBFNiE2iIIscAfJfnuUOgwyLUl4y1ox/l3Rhj5WmtOAfI8xfeAgtCw=="/>
         </item>
     </channel>
 </rss>
